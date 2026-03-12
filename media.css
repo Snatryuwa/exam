@@ -152,5 +152,27 @@
     .big5{
         background-color: rgba(255, 187, 138, 1)  ;
     }
+    .s25{
+        display: none;
+    }
+    .s244{
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+    .big6{
+        background-color:rgba(255, 187, 138, 1) ;
+        padding-left: 40px;
+    }
+    .text8{
+        margin-bottom: 40px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .s23{
+        padding-left: 40px;
+    }
     
 }
