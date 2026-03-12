@@ -40,6 +40,7 @@ align-items: center;
     display: flex;
     gap: 10px;
     align-items: center;
+    outline: none;
 }
 .image4{
     width: 792px; ;
@@ -134,4 +135,32 @@ align-items: center;
     left: 1050px;
     top: 630px;
     z-index: 1;
+}
+.none1{
+    display: none;
+
+}
+.big2{
+    padding-top: 40px;
+}
+.text3 .grey{
+    margin-bottom: 5px;
+}
+.text3 .grey{
+    margin-bottom: 5px;
+ 
+}
+.text3{
+        padding-left: 170px;
+}
+.s9{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 80px;
+    justify-content: center;
+}
+.image7{
+    width: 400px;
+    height: 230px;
 }

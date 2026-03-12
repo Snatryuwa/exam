@@ -60,5 +60,28 @@
         padding-bottom: 20px;
         background-color: rgba(255, 187, 138, 1) ;
     }
+    .text3 .grey{
+        display: none;
+    }
+    .none1{
+        display: block;
+        color: rgba(91, 101, 116, 1);
+    }
+    .s9{
+        flex-direction: column-reverse;
+    }
+    .s10{
+        flex-direction: column;
+    }
+    .big2{
+        background-color: rgba(255, 187, 138, 1) ;
+    }
+    .text3{
+        padding-left: 50px; 
+    }
+    .s9{
+        gap: 40px;
+        padding-bottom: 80px;
+    }
     
 }
