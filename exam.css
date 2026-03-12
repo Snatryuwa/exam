@@ -4,9 +4,15 @@
 body{
     overflow-x: hidden;
 }
+.big{
+   background-color:  rgba(245, 245, 245, 0.279);
+}
 .image1{
     width: 200px;
     height: 40px;
+}
+.daroz{
+    background-color: white;
 }
 .s1 {
   display: flex;
@@ -250,4 +256,68 @@ align-items: center;
     display: none;
      
 }
+.text6 .grey{
+    margin-bottom: 5px;
+}
+.big4{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.text6{
+    padding-left: 165px;
+}
+.s18{
+    background-color: rgba(255, 187, 138, 1);
+     width: 30px;
+     height: 30px;
+     border-radius: 50%;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+}
+.s19 p{
+    margin-bottom: 3px;
+}
+.s20{
+    display: flex;
+    align-items: start;
+    gap: 30px;
+}
+.s17{
+    background-color: white;
+    box-shadow: 1px 1px 5px 1px rgba(128, 128, 128, 0.372);
+    padding: 30px;
+    border-radius: 20px;
+    position: relative;
+}
+.s16{
+    display: flex;
+    gap: 20px;
+}
+.s17 button{
+    background-color: rgba(94, 176, 131, 1);
+    color: white;
+    border: none;
+    border-radius: 40px;
+    padding: 30px 50px;
+}
+.s16{
+    justify-content: center;
+}
+.s17 .grey{
+    font-size: small;
+}
+.krug{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    border: 20px solid rgba(245, 245, 245, 1);
+    position: absolute;
+    left: -610px;
+    z-index: -1;
+    bottom: -90px;
+
+
+}
+
 

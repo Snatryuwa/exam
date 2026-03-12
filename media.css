@@ -123,5 +123,28 @@
         position: absolute;
         right: 45px;
     }
+    .krug{
+        display: none;
+    }
+    .big4{
+        background-color:rgba(255, 187, 138, 1)  ;
+        padding-left: 50px;
+    }
+    .text6{
+        padding-left: 0px;
+    }
+    .s16{
+        flex-direction: column;
+    }
+    .s17{
+        width: 340px;
+    }
+    .s20 .grey{
+        width: 150px;
+    }
+    .cs1{
+        width: 250px;
+        margin-bottom: 3px;
+    }
     
 }
