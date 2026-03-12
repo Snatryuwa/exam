@@ -83,5 +83,45 @@
         gap: 40px;
         padding-bottom: 80px;
     }
+    .kr1{
+        display: none;
+    }
+    .kr{
+        display: none;
+    }
+    .big3{
+        background-color: rgba(255, 187, 138, 1) ;
+
+    }
+    .sort{
+        position: relative;
+    }
+    .s11{
+        position: absolute;
+        left: 43px;
+    }
+    .s12{
+        display: none;
+    }
+    .s122{
+        display: flex;
+      
+    }
+    .image9{
+         width: 320px;
+        height: 320px;
+    }
+    .s15{
+        background-color: white;
+    box-shadow: 1px 1px 5px 1px rgba(128, 128, 128, 0.281);
+    width: 40px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+        position: absolute;
+        right: 45px;
+    }
     
 }
