@@ -1,0 +1,64 @@
+@media(max-width: 500px){
+
+    .text1{
+        display: none;
+    }
+    .imagemed{
+        display: inline;
+    }
+    .daroz{
+        background-color: white;
+        gap: 30px;
+        position: relative;
+        z-index: 1;
+        background-color: transparent;
+    }
+    .image4{
+        width: 346px;
+        height: 315px;
+        position: absolute;
+          top: -64px;
+          left: 152px;
+        
+
+    }
+    .s3{
+        display: none;
+    }
+    .text2{
+        justify-content: center;
+        padding-left: 40px;
+        background-color: rgba(255, 187, 138, 1);
+        margin-top: 200px;
+    }
+    .big1{
+        padding-left: 0px;
+    }
+    .body{
+        overflow-x: hidden;
+    }
+    .scr{
+        display: none;
+    }
+    .s8{
+        display: none;
+    }
+    .s2 button{
+        position: relative;
+        z-index: 3;
+    }
+    .s6{
+        padding-left: 10px;
+        display: flex;
+        flex-direction: column;
+        gap: 40px;
+    }
+    .images{
+        margin: 0;
+        padding-top: 50px;
+        padding-left: 5px;
+        padding-bottom: 20px;
+        background-color: rgba(255, 187, 138, 1) ;
+    }
+    
+}
