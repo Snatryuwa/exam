@@ -12,7 +12,7 @@ body{
     height: 40px;
 }
 .daroz{
-    background-color: white;
+    background-color: transparent;
 }
 .s1 {
   display: flex;
@@ -47,6 +47,10 @@ align-items: center;
     gap: 10px;
     align-items: center;
     outline: none;
+}
+.s2{
+position: relative;
+z-index: 2;
 }
 .image4{
     width: 792px; ;
@@ -316,8 +320,27 @@ align-items: center;
     left: -610px;
     z-index: -1;
     bottom: -90px;
-
-
 }
+.text7 .grey{
+    margin-top: 5px;
+}
+.s21{
+    background-color: rgba(231, 238, 250, 1) ;
+    color: rgba(91, 101, 116, 1);
+    padding: 5px 15px;
+    border-radius: 20px;
+}
+.big5{
+    padding-left: 60px;
+}
+.s22{
+    display: flex;
+    gap: 15px;
+}
+.image12{
+    width: 90%;
+    height: 500px;
+}
+
 
 
