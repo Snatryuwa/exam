@@ -174,5 +174,11 @@
     .s23{
         padding-left: 40px;
     }
+    .big7{
+        border-radius: 0;
+        margin: 0;
+        padding-top: 50px;
+        background-color: rgba(255, 187, 138, 1);
+    }
     
 }

@@ -412,6 +412,38 @@ z-index: 2;
     gap: 20px;
     display: none;
 }
+.s30{
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 85%;
+    border-radius: 10px;
+    align-items: center;
+}
+.image20{
+    width: 14px;
+    height: 7px;
+}
+.big7{
+    border-radius: 5px;
+    margin-top: 30px;
+    padding-left: 100px;
+}
+.image21{
+    width: 14px;
+    height: 7px;
+}
+.s31{
+    display: flex;
+    padding: 15px;
+    align-items: start;
+    justify-content: space-between;
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+}
+
 
 
 
