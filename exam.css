@@ -511,3 +511,6 @@ body {
   align-items: center;
   justify-content: center;
 }
+body{
+  max-width: 1250px;
+}
